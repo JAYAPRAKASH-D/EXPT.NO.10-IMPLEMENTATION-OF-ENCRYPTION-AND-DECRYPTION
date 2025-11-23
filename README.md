@@ -8,11 +8,14 @@ PC with Linux operating system
 
 # PROCEDURE:
 ```
-1] Open code blocks and type the program for encryption and decryption. 2] Save the program using extension .c
+1] Open code blocks and type the program for encryption and decryption. 
+2] Save the program using extension .c
 3]	Run the program using build and run.
-4]	Prime number is given as input. If it is not a prime number then wrong input is displayed. 5] Then a message is entered.
+4]	Prime number is given as input. If it is not a prime number then wrong input is displayed. 
+5] Then a message is entered.
 6]	The encrypted form of the message is displayed.
-7]	The decrypted form is also displayed as final output. 8] Thus the output is obtained.
+7]	The decrypted form is also displayed as final output. 
+8] Thus the output is obtained.
 ```
 # PROGRAM:
 ```
@@ -106,7 +109,8 @@ printf("%c",m[i]);
 }
 ```
 # OUTPUT:
-<img width="1920" height="1080" alt="212222060192_E D" src="https://github.com/user-attachments/assets/6bc3352a-7356-4dd0-be36-e8a93315f0df" />
+
+![WhatsApp Image 2025-11-21 at 22 28 21_ad9295d1](https://github.com/user-attachments/assets/0ab913ca-0048-4404-b187-2e4dc499aef4)
 
 # RESULT:
 Thus the encryption and decryption is implemented and the output is obtained and verified successfully.
